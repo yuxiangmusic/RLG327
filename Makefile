@@ -37,3 +37,6 @@ $(NAME): $(OBJS)
 %.o: %.cpp
 	g++ $(CFLAGS) -c $<
 
+ssh:
+	ssh yuxiangz@pyrite.cs.iastate.edu
+
