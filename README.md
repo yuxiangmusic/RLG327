@@ -1,4 +1,4 @@
-
+```
 NAME
 	rlg327 -- rogue like game
 
@@ -47,4 +47,4 @@ DESCRIPTION
 	--sight
 		Display line of sight for each monster.
 
-
+```
